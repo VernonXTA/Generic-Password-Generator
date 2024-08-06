@@ -1,1 +1,1 @@
-A password generator that can be run via Command Prompt using Python3.
+A password generator that can be run via Command Prompt  and any other shell using Python3.
